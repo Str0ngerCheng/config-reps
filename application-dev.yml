@@ -24,7 +24,7 @@ spring:
   redis:
     host: localhost
     port: 6379
-    password: swe123
+    password:
 
   rabbitmq:
     host: 127.0.0.1
